@@ -1,0 +1,13 @@
+THREAT DETECTION REPORT
+
+Detected Threats:
+- Brute force attack
+- Suspicious login
+- Sensitive file access
+
+Severity: HIGH
+
+Actions:
+- Block IP
+- Reset account
+- Monitor system
